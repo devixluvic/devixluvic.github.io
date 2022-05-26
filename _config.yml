@@ -9,10 +9,10 @@ name: Devon Lutz's Website
 author: Devon Lutz
 
 # Short bio or description (displayed in the header)
-description: Personal Projects and Other Things I Like
+description: An incohesive grouping of things I'm interested in.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/avatar.png
 
 #
 # Flags below are optional
@@ -24,7 +24,7 @@ footer-links:
   email: devix.luvic@gmail.com
   facebook:
   flickr:
-  github: devixluvic/devixluvic.github.io
+  github: devixluvic
   instagram:
   linkedin: 
   pinterest:
